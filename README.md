@@ -9,3 +9,8 @@ MCQ 04: Opetion and Result: https://forms.gle/xifhG3i9bcp9ehw49
 MCQ 05: Error Handling: https://forms.gle/FkHJxwPEa9Hjx8yp8
 
 
+
+# News:
+- Researchers Compared Malware Development in Rust vs C & C++ Languages
+https://cybersecuritynews.com/researchers-compared-malware-development-in-rust-vs-c-c-languages/
+  
